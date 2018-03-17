@@ -1,0 +1,6 @@
+c:\users\mohan\documents\visual studio 2015\Projects\CodeFight\CodeFight\bin\Debug\CodeFight.exe.config
+C:\Users\Mohan\documents\visual studio 2015\Projects\CodeFight\CodeFight\obj\Debug\CodeFight.csprojResolveAssemblyReference.cache
+C:\Users\Mohan\documents\visual studio 2015\Projects\CodeFight\CodeFight\bin\Debug\CodeFight.exe
+C:\Users\Mohan\documents\visual studio 2015\Projects\CodeFight\CodeFight\bin\Debug\CodeFight.pdb
+C:\Users\Mohan\documents\visual studio 2015\Projects\CodeFight\CodeFight\obj\Debug\CodeFight.exe
+C:\Users\Mohan\documents\visual studio 2015\Projects\CodeFight\CodeFight\obj\Debug\CodeFight.pdb
